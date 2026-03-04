@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/harshah0/leetcode_solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/harshah0/leetcode_solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/harshah0/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshah0/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/harshah0/leetcode_solutions/tree/master/0337-house-robber-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/harshah0/leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
