@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/harshah0/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshah0/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/harshah0/leetcode_solutions/tree/master/0198-house-robber) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/harshah0/leetcode_solutions/tree/master/0072-edit-distance) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshah0/leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Matrix
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
