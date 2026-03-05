@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/harshah0/leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
