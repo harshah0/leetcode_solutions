@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/harshah0/leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0547-number-of-provinces](https://github.com/harshah0/leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,5 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/harshah0/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/harshah0/leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/harshah0/leetcode_solutions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/harshah0/leetcode_solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
