@@ -67,15 +67,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshah0/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/harshah0/leetcode_solutions/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshah0/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/harshah0/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/harshah0/leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshah0/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/harshah0/leetcode_solutions/tree/master/0337-house-robber-iii) |
 ## Bit Manipulation
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/harshah0/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshah0/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
