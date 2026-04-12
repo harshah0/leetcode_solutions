@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/harshah0/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/harshah0/leetcode_solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/harshah0/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/harshah0/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshah0/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/harshah0/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshah0/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshah0/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshah0/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshah0/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshah0/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshah0/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
