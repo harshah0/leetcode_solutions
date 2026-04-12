@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/harshah0/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshah0/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/harshah0/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/harshah0/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/harshah0/leetcode_solutions/tree/master/0198-house-robber) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshah0/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshah0/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Queue
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshah0/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshah0/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
