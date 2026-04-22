@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshah0/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshah0/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshah0/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/harshah0/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshah0/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/harshah0/leetcode_solutions/tree/master/0198-house-robber) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshah0/leetcode_solutions/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
