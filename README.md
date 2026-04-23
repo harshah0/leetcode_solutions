@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/harshah0/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshah0/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshah0/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/harshah0/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/harshah0/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshah0/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/harshah0/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/harshah0/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/harshah0/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1980-find-unique-binary-string](https://github.com/harshah0/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/harshah0/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
