@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/harshah0/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/harshah0/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/harshah0/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshah0/leetcode_solutions/tree/master/0146-lru-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/harshah0/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
