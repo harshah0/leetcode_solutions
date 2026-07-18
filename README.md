@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshah0/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/harshah0/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1331-rank-transform-of-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshah0/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/harshah0/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/harshah0/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshah0/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshah0/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/harshah0/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/harshah0/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
