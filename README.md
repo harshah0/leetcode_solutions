@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/harshah0/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshah0/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshah0/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshah0/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harshah0/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/harshah0/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshah0/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/harshah0/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshah0/leetcode_solutions/tree/master/0072-edit-distance) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshah0/leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshah0/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshah0/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/harshah0/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/harshah0/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
