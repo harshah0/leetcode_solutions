@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshah0/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/harshah0/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/harshah0/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshah0/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshah0/leetcode_solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/harshah0/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshah0/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshah0/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -193,9 +196,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshah0/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshah0/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harshah0/leetcode_solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
